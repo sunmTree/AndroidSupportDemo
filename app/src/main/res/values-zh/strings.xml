@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">安卓Support</string>
+
+    <string name="navigation_drawer_open">打开侧滑窗口</string>
+    <string name="navigation_drawer_close">关闭侧滑窗口</string>
+
+    <string name="action_settings">设置</string>
+    <string name="hello">你好，世界</string>
+</resources>
